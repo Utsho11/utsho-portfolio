@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    text-align: center;
+    background-color: grey;
+    background-image: url(../images/donation6.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.banner-title{
+    padding-top: 100px;
+}
+  
+.first-p{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.btn-primary{
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    font-size: 20px;
+    border: 0;
+    
+    height: 40px;
+    border-radius: 5px;
+    background: #f84605;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.title{
+    margin-top: 100px;
+    text-align: center;
+}
+.p2{
+    text-align: center;
+    margin: 30px;
+    color: gray;
+    font-size: small;
+}
+div ul{
+    display: flex;
+    text-align: center;
+    list-style: none;
+    margin-left: 285px;
+}
+div li{
+    color: gray;
+    margin-right: 30px;
+    padding: 20px 20px;
+    background-color: rgba(211, 211, 211, 0.272);
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    border-style: inset;
+}
+div li:hover{
+    background: rgba(240, 128, 128, 0.441);
+    border-radius: 5px;
+    color: #f84605;
+    padding: 5px;
+}
+.amount{
+    text-align: center;
+    color: gray;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+.new{
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.fse{
+    display: flex;
+    margin: 0 200px;
+    text-align: center;
+}
+.food{
+    border-style: solid;
+    padding: 30px;
+    margin: 30px 20px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+.shelter{
+    border-style: solid;
+    padding: 30px;
+    margin: 30px 20px;
+    border-radius: 5px;
+    background-color: rgba(255, 192, 203, 0.187);
+}
+.education{
+    border-style: solid;
+    padding: 30px;
+    margin: 30px 20px;
+    border-radius: 5px;
+    background-color: rgba(250, 235, 215, 0.114);
+}
+.p3{
+    color: rgba(128, 128, 128, 0.315);
+    font-size: small;
+    margin-top: 15px;
+    margin-right: 30px;
+    
+}
+.depend{
+    display: flex;
+    margin: 50px 220px;
+    gap: 200px;
+}
+.survive{
+    margin-top: 50px;
+}
+.update{
+    text-align: center;
+}
+.email{
+    text-align: center;
+    background-color: bisque;
+    margin-top: 30px;
+    margin-left: 280px;
+    margin-right: 280px;
+    border-radius: 5px;
+    padding-top: 50px;
+    margin-bottom: 65px;
+}
+.email input[type="email"]{
+    font-size: 20px;
+    padding: 5px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-style: none;
+    border: 0;
+
+}
+.last{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+.humble{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FF5959;
+    margin: 50px;
+}
+.p6{
+    color: white;
+    font-size: 10px;
+}
